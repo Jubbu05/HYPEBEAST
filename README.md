@@ -1,8 +1,9 @@
 # HYPEBEAST
 
 ## Home Page
-[1 [MConverter.eu].webm](https://user-images.githubusercontent.com/80613051/227103534-eb14ac3e-0256-4186-87a7-530a9fc02fde.webm)
-[2 [MConverter.eu].webm](https://user-images.githubusercontent.com/80613051/227103521-088ebac8-d4c7-4373-8db8-3dc7f52b12ad.webm)
+![1](https://user-images.githubusercontent.com/80613051/227103715-c73dd21f-6282-4db6-9e9d-27e1dde0f6e4.png)
+![2](https://user-images.githubusercontent.com/80613051/227103735-c127f0e3-d6c5-4cf7-b3ad-8ccbce6d6cbd.png)
+
 
 ## Latest Page
 ![3](https://user-images.githubusercontent.com/80613051/224567348-b945b4b4-3e92-4272-96aa-7b90302fc389.png)
